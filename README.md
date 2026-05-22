@@ -2,7 +2,7 @@
 
 [![Nextflow](https://img.shields.io/badge/nextflow%20DSL2-%E2%89%A522.10.1-23aa62.svg)](https://www.nextflow.io/)
 [![Docker](https://img.shields.io/badge/docker%20-ready-blue.svg)](https://www.docker.com/)
-[![CI Tests](https://github.com/[Your-Username]/Spatial-Omics-Nextflow/actions/workflows/ci.yml/badge.svg)](https://github.com/[Your-Username]/Spatial-Omics-Nextflow/actions)
+[![CI Tests](https://github.com/JawadIbraheem-DryLab/Spatial-Omics-Nextflow/actions/workflows/ci.yml/badge.svg)](https://github.com/JawadIbraheem-DryLab/Spatial-Omics-Nextflow/actions)
 
 > **An end-to-end, reproducible Nextflow pipeline for 10x Visium Spatial Transcriptomics data, optimized for AWS Batch and local HPC execution.**
 
@@ -19,8 +19,8 @@ If you have Nextflow and Docker installed, you can test this pipeline in 60 seco
 
 ```bash
 # Clone the repository
-git clone [https://github.com/](https://github.com/)[Your-Username]/Spatial-Omics-Nextflow.git
+git clone [https://github.com/JawadIbraheem-DryLab/Spatial-Omics-Nextflow.git](https://github.com/JawadIbraheem-DryLab/Spatial-Omics-Nextflow.git)
 cd Spatial-Omics-Nextflow
 
 # Run the pipeline on the test dataset using Docker
-nextflow run main.nf -profile test,docker
+nextflow run main.nf -profile docker
