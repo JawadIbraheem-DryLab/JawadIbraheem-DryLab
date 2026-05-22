@@ -1,4 +1,4 @@
-# 🧬 Spatial-Omics-Nextflow-Automator
+# Spatial-Omics-Nextflow-Automator
 
 [![Nextflow](https://img.shields.io/badge/nextflow%20DSL2-%E2%89%A522.10.1-23aa62.svg)](https://www.nextflow.io/)
 [![Docker](https://img.shields.io/badge/docker%20-ready-blue.svg)](https://www.docker.com/)
