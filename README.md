@@ -16,4 +16,4 @@ I am an autonomous computational biologist operating as a remote contractor for 
 
 ### Let's Connect
 * ✉️ **Email:** imjawad360@gmail.com
-* 💼 **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/konpresor012/)]
+* 💼 **LinkedIn:** https://www.linkedin.com/in/konpresor012/
