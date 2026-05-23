@@ -1,26 +1,19 @@
-# Spatial-Omics-Nextflow-Automator
+# Hi there, I'm Jawad Ibrahim 👋
 
-[![Nextflow](https://img.shields.io/badge/nextflow%20DSL2-%E2%89%A522.10.1-23aa62.svg)](https://www.nextflow.io/)
-[![Docker](https://img.shields.io/badge/docker%20-ready-blue.svg)](https://www.docker.com/)
-[![CI Tests](https://github.com/JawadIbraheem-DryLab/Spatial-Omics-Nextflow/actions/workflows/ci.yml/badge.svg)](https://github.com/JawadIbraheem-DryLab/Spatial-Omics-Nextflow/actions)
+**Bioinformatician  | B2B Global Contractor | Cloud Data Architect**
 
-> **An end-to-end, reproducible Nextflow pipeline for 10x Visium Spatial Transcriptomics data, optimized for AWS Batch and local HPC execution.**
+I am an autonomous computational biologist operating as a remote contractor for global biotech startups and CROs. I specialize in bridging the gap between heavy genomic data science and production-grade software engineering. I replace brittle local scripts with fully reproducible, containerized cloud pipelines that cut compute costs and scale seamlessly.
 
-## Executive Summary
+### Technical Arsenal
+* **Cloud & DevOps:** AWS (Batch, EC2, S3), Nextflow, Snakemake, Docker, GitHub Actions (CI/CD)
+* **Languages:** Python (Pandas, NumPy), R (Bioconductor), Bash/Shell, SQL
+* **AI & Machine Learning:** PyTorch, Graph Neural Networks (GNNs), Autoencoders
+* **Domain Focus:** Single-Cell RNA-Seq (Scanpy/Seurat), Spatial Transcriptomics, Variant Calling
 
-**The Biological Problem:** Processing spatial transcriptomics data (raw FASTQs to clustered spatial maps) is computationally heavy, prone to dependency conflicts, and difficult to scale across hundreds of tissue slices.
-**The Engineering Solution:** This pipeline automates the entire workflow using **Nextflow (DSL2)**. All dependencies are strictly locked inside a **Docker container**, ensuring 100% reproducibility. It is designed to scale dynamically from a local MacBook to a 10,000-node AWS Batch cluster without changing a single line of core logic.
+### Featured Contract Work
+* **Spatial-Omics Cloud Pipelines:** Engineered automated Nextflow/Docker workflows for high-dimensional spatial transcriptomics.
+* **scRNA-Seq Autoencoders:** Built PyTorch-based neural networks for dimensionality reduction in million-cell datasets.
 
----
-
-## Quick Start (TL;DR)
-
-If you have Nextflow and Docker installed, you can test this pipeline in 60 seconds using the provided downsampled test dataset.
-
-```bash
-# Clone the repository
-git clone [https://github.com/JawadIbraheem-DryLab/Spatial-Omics-Nextflow.git](https://github.com/JawadIbraheem-DryLab/Spatial-Omics-Nextflow.git)
-cd Spatial-Omics-Nextflow
-
-# Run the pipeline on the test dataset using Docker
-nextflow run main.nf -profile docker
+### Let's Connect
+* ✉️ **Email:** imjawad360@gmail.com
+* 💼 **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/konpresor012/)]
